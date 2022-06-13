@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(145, 195, 145);
+}
+
+.class1 {
+    width: 100px;
+    height: 50px;
+    transition: all 0.2s;
+    background-color: orange;
+}
+
+.class1:hover {
+    transform: scale(2);
+}
